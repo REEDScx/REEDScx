@@ -41,25 +41,21 @@ Gosto de trabalhar em projetos que conectam **frontend, backend, APIs, Discord, 
 ## ⚡ Tech Stack
 
 ### 💻 Linguagens
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,kotlin,java,html,css" alt="Programming Languages" />
 </div>
 
 ### 🚀 Frontend & Runtime
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express" alt="Frontend and Runtime" />
 </div>
 
 ### 🗄️ Dados & Infraestrutura
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,docker,linux" alt="Databases and Infrastructure" />
 </div>
 
 ### 🛠️ Ferramentas
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools" />
 </div>
@@ -168,11 +164,9 @@ Aplicação mobile para consumo e visualização de conteúdo.
 | 📱 **New Ronix Android Roblox** | Android |
 
 <div align="center">
-
 <a href="https://github.com/REEDScx?tab=repositories">
 <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSITÓRIOS-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="All repositories" />
 </a>
-
 </div>
 
 ---
@@ -210,18 +204,14 @@ Aplicação mobile para consumo e visualização de conteúdo.
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=REEDScx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REEDScx&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
-
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=REEDScx&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&stroke=FFFFFF" alt="GitHub Streak" />
 </div>
@@ -229,7 +219,6 @@ Aplicação mobile para consumo e visualização de conteúdo.
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=REEDScx&bg_color=0D1117&color=FFFFFF&line=00FF41&point=00FF41&area=true&hide_border=true&custom_title=REEDS%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
@@ -237,7 +226,6 @@ Aplicação mobile para consumo e visualização de conteúdo.
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=REEDScx&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
 </div>
@@ -245,17 +233,14 @@ Aplicação mobile para consumo e visualização de conteúdo.
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-<img src="[https://raw.githubusercontent.com/REEDScx/REEDScx/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/REEDScx/REEDScx/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
 
 ## 🧠 Áreas de Interesse
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/Software%20Architecture-00FF41?style=for-the-badge&logoColor=black" alt="Software Architecture" />
 <img src="https://img.shields.io/badge/API%20Development-00FF41?style=for-the-badge&logoColor=black" alt="API Development" />
 <img src="https://img.shields.io/badge/Automation-00FF41?style=for-the-badge&logoColor=black" alt="Automation" />
@@ -264,31 +249,19 @@ Aplicação mobile para consumo e visualização de conteúdo.
 <img src="https://img.shields.io/badge/Discord-00FF41?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
 <img src="https://img.shields.io/badge/Mobile-00FF41?style=for-the-badge&logo=android&logoColor=black" alt="Mobile Development" />
 <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-00FF41?style=for-the-badge&logoColor=black" alt="Cloud and DevOps" />
-
 </div>
 
 ---
 
 ## 🌐 Conecte-se
-
 <div align="center">
-
-<a href="https://github.com/REEDScx">
-<img src="https://img.shields.io/badge/GitHub-REEDScx-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-REEDS-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-
+<a href="https://github.com/REEDScx"><img src="https://img.shields.io/badge/GitHub-REEDScx-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-REEDS-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
 
 <div align="center">
-
 ### 💚 Code. Create. Improve. Repeat.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003300,100:00FF41&height=130&section=footer" alt="Footer" />
-
 </div>
