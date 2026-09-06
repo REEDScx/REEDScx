@@ -247,7 +247,7 @@ Aplicação mobile para consumo e visualização de conteúdo.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/REEDScx/REEDScx/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="[https://raw.githubusercontent.com/REEDScx/REEDScx/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake" />
 </div>
 
 ---
