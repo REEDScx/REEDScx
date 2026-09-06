@@ -125,9 +125,7 @@ Dashboard e backend para gerenciamento de dados e componentes reutilizáveis.
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=REEDScx&bg_color=0D1117&color=FFFFFF&line=00FF41&point=00FF41&area=true&hide_border=true&custom_title=REEDS%20Contribution%20Graph&radius=8" alt="REEDS Contribution Graph" />
-
+<img width="100%" src="https://raw.githubusercontent.com/REEDScx/REEDScx/output/activity-graph.svg" alt="REEDS Contribution Graph" />
 </div>
 
 ---
@@ -135,7 +133,7 @@ Dashboard e backend para gerenciamento de dados e componentes reutilizáveis.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=REEDScx&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/REEDScx/REEDScx/output/github-trophies.svg" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -167,7 +165,7 @@ Dashboard e backend para gerenciamento de dados e componentes reutilizáveis.
 
 <div align="center">
 <a href="https://github.com/REEDScx"><img src="https://img.shields.io/badge/GitHub-REEDScx-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-REEDS-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-REEDS-5865F2?style=for-the-badge&logo=discord" alt="Discord" /></a>
 </div>
 
 ---
